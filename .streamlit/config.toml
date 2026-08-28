@@ -1,0 +1,8 @@
+[client]
+# Hides the top-right hamburger menu entirely (Clear cache, Rerun, Settings,
+# Deploy button, About) -- that's what was showing the "Clear caches" popup.
+toolbarMode = "minimal"
+
+# Prevents raw Python tracebacks from being shown to end users if something
+# errors -- important once real people other than you are using the app.
+showErrorDetails = false
